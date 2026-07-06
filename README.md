@@ -1,20 +1,78 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌌 Cosmic Explorer
 
-# Run and deploy your AI Studio app
+An immersive and interactive 3D Solar System exploration platform built using React, TypeScript, Vite, and Three.js.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/1987ebbf-a54d-4a34-af7d-f7c3b6546573
+🔗 https://cosmic-explorer-3d.vercel.app/
 
-## Run Locally
+## 📂 GitHub Repository
 
-**Prerequisites:**  Node.js
+🔗 https://github.com/santhoshsivamurugan-collab/cosmic-explorer
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Features
+
+- 🌞 Interactive 3D Solar System
+- 🪐 Click on planets to view detailed information
+- 🔍 Smooth zoom and camera controls
+- ⚖️ Planet Comparison section
+- 📚 Space Facts Center
+- 🧠 Interactive Space Quiz
+- 🎨 Modern futuristic space-themed UI
+- 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Three.js
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
+
+---
+
+## ▶️ Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed on **Vercel**.
+
+Live Website:
+
+https://cosmic-explorer-3d.vercel.app/
+
+---
+
+## 👨‍💻 Developer
+
+**Santhosh Sivamurugan**
+
+B.Tech – Computer Science & Engineering
+
+JNTUA
+
+---
+
+## ⭐ Future Improvements
+
+- Real NASA planet textures
+- Black Hole Explorer
+- Space Mission Simulator
+- Voice-controlled navigation
+- AR/VR support
+- Multiplayer exploration mode
