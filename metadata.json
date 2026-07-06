@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Explorer",
+  "description": "An immersive, realistic, and visually stunning 3D Solar System exploration platform, space simulator, digital planetarium, and interactive learning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
